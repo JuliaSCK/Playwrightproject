@@ -1,6 +1,5 @@
-
-
-
+import pytest
+import math
 
 test_data = [
     (2, 3, 6),
